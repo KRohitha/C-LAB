@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+   int a;
+   printf("REGD NO:25331A05F7\n");
+   printf(“enter the value of a :”);
+   scanf("%d", &a);
+   printf("display=%d", a);
+   return 0;
+}
